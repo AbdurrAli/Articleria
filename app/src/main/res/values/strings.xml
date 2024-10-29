@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">Articleria</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="description">Description</string>
+    <string name="photo_thumb">photo</string>
+    <string name="Share">Share this Article</string>
+
+    <string-array name="data_name">
+        <item>Aloe Vera</item>
+        <item>Lavender</item>
+        <item>Mint</item>
+        <item>Rosemary</item>
+        <item>Basil</item>
+        <item>Thyme</item>
+        <item>Sage</item>
+        <item>Chamomile</item>
+        <item>Oregano</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aloe Vera is a resilient succulent plant revered for its powerful medicinal and soothing properties. Its thick, fleshy leaves contain a nutrient-rich gel often used in natural remedies for skin healing, burns, cuts, and hydration. Beyond topical applications, Aloe Vera has become a popular ingredient in health beverages for its digestive and detoxifying benefits.</item>
+        <item>Lavender, a fragrant herb with iconic purple flowers, is celebrated for its calming and therapeutic qualities. Known for its relaxing aroma, lavender is commonly used in aromatherapy, sleep aids, and skincare. It also has antibacterial properties and has been a trusted remedy for stress relief, headache alleviation, and wound care throughout history.</item>
+        <item>Mint is a vibrant, refreshing herb with a distinct cooling effect, thanks to its menthol content. Widely used in culinary dishes, teas, and essential oils, mint has versatile applications, from enhancing flavor in food to offering natural relief for digestive issues, headaches, and respiratory discomfort. Its invigorating aroma is also popular in wellness and skincare products.</item>
+        <item>Rosemary is a hardy evergreen herb with needle-like leaves and a rich pine-like aroma. Often used in Mediterranean cooking, rosemary complements meats, sauces, and roasted vegetables, adding depth and flavor. Its essential oil is also prized for improving focus, memory, and relieving muscle pain, making rosemary a favorite in both culinary and holistic practices.</item>
+        <item>Basil is a beloved herb with smooth, fragrant leaves, essential in many cuisines, especially Italian. Known for its sweet, slightly peppery flavor, basil is versatile and commonly found in dishes like pesto, salads, and soups. Rich in antioxidants and vitamins, basil also offers various health benefits, from anti-inflammatory properties to immune system support.</item>
+        <item>Thyme is a robust herb with small leaves and a woodsy, slightly minty taste. Frequently used in cooking, it enhances the flavors of soups, stews, and meats. Thyme also boasts antimicrobial properties and is rich in vitamins and minerals. In traditional medicine, it is valued for its respiratory health benefits, immune support, and potential antioxidant effects.</item>
+        <item>Sage, with its soft, silvery-green leaves, is known for a unique, earthy aroma and slightly peppery taste. Often used in savory dishes and holiday recipes, sage enhances flavor in roasts, sauces, and stuffings. It also has potent anti-inflammatory and memory-boosting properties, making it a valued herb in both cooking and natural medicine.</item>
+        <item>Chamomile, a delicate flowering herb, is best known for its calming and sleep-inducing qualities. Often prepared as a tea, chamomile is used for relaxation, reducing anxiety, and aiding digestion. Its gentle properties make it suitable for skincare, where it helps soothe irritations and reduce inflammation, making chamomile a staple in holistic health.</item>
+        <item>Oregano is a flavorful and aromatic herb widely used in Mediterranean and Latin American cuisines. Known for its bold taste, it adds depth to dishes like pizzas, sauces, and marinades. Beyond culinary use, oregano is valued for its antioxidant, antibacterial, and anti-inflammatory properties, making it a staple in both kitchens and herbal remedies.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aloe_vera</item>
+        <item>@drawable/lavender</item>
+        <item>@drawable/mint</item>
+        <item>@drawable/rosemary</item>
+        <item>@drawable/basil</item>
+        <item>@drawable/thyme</item>
+        <item>@drawable/sage</item>
+        <item>@drawable/chamomile</item>
+        <item>@drawable/oregano</item>
+    </integer-array>
 </resources>
